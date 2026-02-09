@@ -8,7 +8,7 @@
 
 과제의 내용은 아래 링크를 통해 커밋나우 홈페이지에서 확인할 수 있습니다.
 
-> [과제내용 보러가기](https://sandbox.commitnow.dev/assignment/커밋마켓-온라인-쇼핑몰-플랫폼-RFQ4WLWv)
+> [과제내용 보러가기](https://commitnow.dev/assignment/커밋마켓-온라인-쇼핑몰-플랫폼-RFQ4WLWv)
 
 과제의 설명과 요구사항을 잘 참고하여, 구현해 주세요.
 
